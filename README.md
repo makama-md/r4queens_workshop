@@ -1,6 +1,6 @@
 # r4queens_workshop
 ___
-<a href='https://www.cr4q.org/'> <img src='img/bb.png' /></a>
+<a href='https://www.cr4q.org/'> <img src='Data Prep/img/bb.png' /></a>
 ___
 
 CR4Q Workshop Application Form
